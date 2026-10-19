@@ -9,9 +9,9 @@ I build **fast landing pages and n8n automations** for coaches, course creators 
 
 | Service | From |
 |---|---|
-| One-page landing page | 2,000,000 VND / €250 |
-| Business website (4–6 pages, bilingual VI/EN) | 5,000,000 VND / €600 |
-| Updates & maintenance | 200,000 VND / €30 per month |
+| One-page landing page | $45 |
+| Business website (up to 5 pages) | $120 |
+| Updates & maintenance | $50 per month |
 
 **Projects**
 
