@@ -18,7 +18,8 @@ I build **fast, mobile-friendly websites for small businesses**: homestays, caf�
 - [maze-runner-robot](https://github.com/namduong-dev1809/maze-runner-robot): Arduino wall-following maze robot (C++, ultrasonic sensors, P-controller)
 - [portfolio](https://github.com/namduong-dev1809/portfolio): my personal site, live at **[duongthanhnam.vercel.app](https://duongthanhnam.vercel.app)**
 - [noezz-homestay](https://github.com/namduong-dev1809/noezz-homestay): bilingual EN/VI website for a fictional Da Nang beach homestay, live at **[noezz-homestay.vercel.app](https://noezz-homestay.vercel.app)** (Next.js, Tailwind)
-- Website demos (café, spa): in progress
+- [noezz-coffee](https://github.com/namduong-dev1809/noezz-coffee): one-page VI/EN website for a fictional coffee shop with a hero slider and tabbed menu, live at **[noezz-coffee.vercel.app](https://noezz-coffee.vercel.app)**
+- Website demo (spa): in progress
 
 **Tools:** HTML · CSS · Git · C/C++ · Arduino
 
