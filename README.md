@@ -19,7 +19,7 @@ I build **fast, mobile-friendly websites for small businesses**: homestays, caf�
 - [portfolio](https://github.com/namduong-dev1809/portfolio): my personal site, live at **[duongthanhnam.vercel.app](https://duongthanhnam.vercel.app)**
 - [noezz-homestay](https://github.com/namduong-dev1809/noezz-homestay): bilingual EN/VI website for a fictional Da Nang beach homestay, live at **[noezz-homestay.vercel.app](https://noezz-homestay.vercel.app)** (Next.js, Tailwind)
 - [noezz-coffee](https://github.com/namduong-dev1809/noezz-coffee): one-page VI/EN website for a fictional coffee shop with a hero slider and tabbed menu, live at **[noezz-coffee.vercel.app](https://noezz-coffee.vercel.app)**
-- Website demo (spa): in progress
+- [noezz-spa](https://github.com/namduong-dev1809/noezz-spa): one-page VI/EN landing page for a fictional herbal spa with a 60/90-minute price switch and a booking form, live at **[noezz-spa.vercel.app](https://noezz-spa.vercel.app)**
 
 **Tools:** HTML · CSS · Git · C/C++ · Arduino
 
