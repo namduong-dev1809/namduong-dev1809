@@ -16,9 +16,11 @@ I build **fast, mobile-friendly websites for small businesses**: homestays, caf�
 **Projects**
 
 - [maze-runner-robot](https://github.com/namduong-dev1809/maze-runner-robot): Arduino wall-following maze robot (C++, ultrasonic sensors, P-controller)
-- [portfolio](https://github.com/namduong-dev1809/portfolio): my personal site
+- [portfolio](https://github.com/namduong-dev1809/portfolio): my personal site, live at **[duongthanhnam.vercel.app](https://duongthanhnam.vercel.app)**
 - Website demos (homestay, café, spa): in progress
 
 **Tools:** HTML · CSS · Git · C/C++ · Arduino
+
+🌐 **Portfolio & prices:** [duongthanhnam.vercel.app](https://duongthanhnam.vercel.app)
 
 📫 **Contact:** dtnam2007bk@gmail.com · based in Da Nang, Vietnam (GMT+7) · English & Vietnamese
