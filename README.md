@@ -7,11 +7,10 @@ I build **fast landing pages and n8n automations** for coaches, course creators 
 
 **What I offer**
 
-| Service | From |
-|---|---|
-| One-page landing page | $45 |
-| Business website (up to 5 pages) | $120 |
-| Updates & maintenance | $50 per month |
+- One-page landing pages: lead magnet, launch and waitlist pages
+- Business websites (up to 5 pages)
+- n8n automations: booking, onboarding and AI chatbots
+- Updates & maintenance
 
 **Projects**
 
@@ -23,6 +22,6 @@ I build **fast landing pages and n8n automations** for coaches, course creators 
 
 **Tools:** Next.js · TypeScript · Tailwind CSS · n8n · Git · C/C++ · Arduino
 
-🌐 **Portfolio & prices:** [duongthanhnam.vercel.app](https://duongthanhnam.vercel.app)
+🌐 **Portfolio:** [duongthanhnam.vercel.app](https://duongthanhnam.vercel.app)
 
 📫 **Contact:** dtnam2007bk@gmail.com · based in Da Nang, Vietnam (GMT+7) · English & Vietnamese
